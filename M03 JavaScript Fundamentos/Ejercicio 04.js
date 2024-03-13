@@ -45,7 +45,7 @@ function redondearHaciaArriba(num) {
 function numeroRandom() {
    // Genera un número al azar entre 0 y 1 y retórnalo.
    // Tu código:
-     let num =  Math.random (0) * 1;
+     let num = Math.random (0 , 1) ;
    return num;
 }
 

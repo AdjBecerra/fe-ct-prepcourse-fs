@@ -42,8 +42,7 @@ function mayorQueCincuenta(num) {
    // Tu código:
    if (num > 50 ){
       return true;
-   }
-   else return false;
+   }else return false;
 }
 
 function esPar(num) {

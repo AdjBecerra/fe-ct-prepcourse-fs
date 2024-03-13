@@ -9,10 +9,10 @@ function devolverString(string) {
 
 // ⛔️ "X" e "Y" son números.
 
-function suma(x, y) {
+function suma(x, p) {
    // Retorna el resultado de su suma.
    // Tu código:
-   suma = x + y;
+   suma = x + p;
    return suma;
 }
 
