@@ -3,6 +3,9 @@
 function devolverPrimerElemento(array) {
    // Retornar el primer elemento del arreglo recibido por parámetro.
    // Tu código:
+      let array = [1, 2, 3];
+      (array.unshift(3,4,6));
+      console.log(arr);
 }
 
 function devolverUltimoElemento(array) {
@@ -13,6 +16,9 @@ function devolverUltimoElemento(array) {
 function obtenerLargoDelArray(array) {
    // Retornar la longitud del arreglo recibido por parámetro.
    // Tu código:
+
+   let niarreglo = [1, 2, 3, 4];
+         console.log(array(niarreglo.length));
 }
 
 function incrementarPorUno(array) {
